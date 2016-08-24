@@ -29,7 +29,7 @@ $ git push
 _If there is an error or you can't see your commit in Github after refreshing
 then let me know._
 
-![Jenkins Landing Page](/img/jenkins_landing.png?raw=true)
+![Jenkins Landing Page](/img/jenkins_landing.png)
 ####Setting up a Job in Jenkins
 1. Navtigate to [Jenkins](jenkins.chico.liatr.io).
 2. Click _New Item_.
@@ -45,14 +45,14 @@ then let me know._
   2. Enter `make` (This will run the Makefile).
 7. Click _Save_.
 
-![Build status badge](../master/img/jenkins_badge.png?raw=true)
+![Build status badge](/img/jenkins_badge.png)
 ####Set up _Embedded Build Status_ for Repo
 The build status symbol often seen on a Github repository is normally connected
 to TravisCI or JenkinsCI. We are using JenkinsCI which requires a plugin called
 _Embedded Build Status_. I have already installed it for you. You just need to
 add the proper information into your README.md file.
 
-![Main job page](../master/img/jenkins_main_job.png?raw=true)
+![Main job page](/img/jenkins_main_job.png?)
 1. Open the README file in a text editor.
 2. Go to the _Embedded Build Status_ page. The link is found on the main page of the job.
 3. Select the _Markdown (with View) protected_ link and paste it in your README.
@@ -86,7 +86,7 @@ Deployment. The point of this is to show downstream/upstream job relationships._
   1. After that successfully builds go and check your second job.
   2. You should see it successfully run.
   3. Select a Build Job from History and go to the console log to see your program output. If you program has run there then you successfully set up a basic pipeline.
-![Job history](../master/img/jenkins_history.png?raw=true)
+![Job history](/img/jenkins_history.png)
 
 ###Wrapping it up
 As you can see, Jenkins has a ton of opportunity which makes it the leading CI
