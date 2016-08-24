@@ -5,6 +5,9 @@ Rioh Rowe
 Jason Groven
 Jake Magers
 
+##build protected
+[![Build Status](http://jenkins.chico.liatr.io/job/Leroy%20JEEENNKIINNSSS/badge/icon)](http://jenkins.chico.liatr.io/job/Leroy%20JEEENNKIINNSSS/)
+
 This simple exercise is designed to introduce you to Jenkins and continuous
 integration. This will be done in teams of 5 but we will all be working on one
 Jenkins server.
