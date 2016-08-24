@@ -29,8 +29,9 @@ $ git push
 _If there is an error or you can't see your commit in Github after refreshing
 then let me know._
 
-![Jenkins Landing Page](/img/jenkins_landing.png)
 ####Setting up a Job in Jenkins
+![Jenkins Landing Page](/img/jenkins_landing.png)
+
 1. Navtigate to [Jenkins](jenkins.chico.liatr.io).
 2. Click _New Item_.
 3. Enter a name for your project, click _Freestyle Project_, then _OK_.
