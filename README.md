@@ -51,8 +51,9 @@ to TravisCI or JenkinsCI. We are using JenkinsCI which requires a plugin called
 _Embedded Build Status_. I have already installed it for you. You just need to
 add the proper information into your README.md file.
 
-![Main job page](/img/jenkins_main_job.png?)
+![Main job page](/img/jenkins_main_job.png)
 ![Build status badge](/img/jenkins_badge.png)
+
 1. Open the README file in a text editor.
 2. Go to the _Embedded Build Status_ page. The link is found on the main page of the job.
 3. Select the _Markdown (with View) protected_ link and paste it in your README.
