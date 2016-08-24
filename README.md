@@ -29,7 +29,7 @@ $ git push
 _If there is an error or you can't see your commit in Github after refreshing
 then let me know._
 
-![Jenkins Landing Page](../blob/master/img/jenkins_landing.png?raw=true)
+![Jenkins Landing Page](/img/jenkins_landing.png?raw=true)
 ####Setting up a Job in Jenkins
 1. Navtigate to [Jenkins](jenkins.chico.liatr.io).
 2. Click _New Item_.
