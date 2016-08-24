@@ -47,6 +47,7 @@ then let me know._
 
 ####Set up _Embedded Build Status_ for Repo
 ![Build status badge](/img/jenkins_badge.png)
+
 The build status symbol often seen on a Github repository is normally connected
 to TravisCI or JenkinsCI. We are using JenkinsCI which requires a plugin called
 _Embedded Build Status_. I have already installed it for you. You just need to
