@@ -87,7 +87,7 @@ Deployment. The point of this is to show downstream/upstream job relationships._
   1. After that successfully builds go and check your second job.
   2. You should see it successfully run.
   3. Select a Build Job from History and go to the console log to see your program output. If you program has run there then you successfully set up a basic pipeline.
-![Job history](k/img/jenkins_history.png)
+![Job history](/img/jenkins_history.png)
 
 ###Wrapping it up
 As you can see, Jenkins has a ton of opportunity which makes it the leading CI
